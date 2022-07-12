@@ -7,8 +7,7 @@ https://speecttotext1.000webhostapp.com/
 
 
 
-Writing the ESP32 algorithm
-Setup ESP32:
+ Setup ESP32:
 
 1-Download Arduino ID , for we can write program code on ESP32
 
@@ -23,9 +22,9 @@ From the list of tools > Board "Arduino Uno" > ESP32 Arduino > WEMOS D1 MINI ESP
 5. we can check if the board is working
  choosing an example from file > Examples > ESP32
  
-7. We know the port from the list of tools we choose the port and then click on COM6
+6. We know the port from the list of tools we choose the port and then click on COM6
 
-8. We upload the code to the device
+7. We upload the code to the device
  
 If port is not defined we follow the following steps "
 إذا لم يتم تعريف المنفذ ، فإننا نتبع الخطوات التالية "
