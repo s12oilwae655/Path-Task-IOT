@@ -4,9 +4,14 @@ https://speecttotext1.000webhostapp.com/
 ![image](https://user-images.githubusercontent.com/107873476/178418982-a107e8a5-e43c-4d2c-9061-5b5be647be02.png)
 
 
+
+
+
 Writing the ESP32 algorithm
 Setup ESP32:
+
 1-Download Arduino ID , for we can write program code on ESP32
+
 2. then plug in the ESP32 to the computer
 
 3.  setup ESP32 with the IDE we need library , so we should go to File > click on preferences, then write “https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json” on Additional boards manger URLs
